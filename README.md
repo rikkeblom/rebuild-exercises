@@ -21,4 +21,4 @@ Create a two-column grid of equal width; one containing the text content and the
 
 ![Slanted card part 2](slanted-2.jpg "slanted card part 2")
 
-Continue to work on introducing a slanted edge slicing through a card component containing some text content and an image. The angle of the slanted edge must be consistent at all screen sizes and its midpoint must intersect with that of the diagonals of the card (see video reference).
+Continue to work on introducing a slanted edge slicing through a card component containing some text content and an image. The angle of the slanted edge must be consistent at all screen sizes and its midpoint must intersect with that of the diagonals of the card (see video reference above).
