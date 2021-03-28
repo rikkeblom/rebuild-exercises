@@ -9,11 +9,12 @@
 In this exercise your job is to create a slanted edge slicing through a card component containing some text content and an image. The angle of the slanted edge must be consistent at all screen sizes and its midpoint must intersect with that of the diagonals of the card (see video reference).
 
 Reference:
+
 ![Slanted card](slanted-card.gif "slanted card reference")
 
 ---
 
-You may want to split up the exercise in two parts.
+You may want to split up the exercise into two parts.
 
 ![Slanted card part 1](slanted-1.jpg "slanted card part 1")
 
