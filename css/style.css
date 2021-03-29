@@ -1,4 +1,4 @@
-/* |||| DEMO STYLES |||| */
+/* EXERCISE STYLES */
 html {
   block-size: 100%;
 }
@@ -15,16 +15,19 @@ h1 {
 img {
   max-inline-size: 100%; /* images has a maximum width of 100% */
 }
-/* |||| DEMO STYLES END |||| */
+/* EXERCISE STYLES END */
 
 /* ————————————————————————————————————————————— */
 
-/* |||| CARD STYLES |||| */
+/* CARD STYLES */
 .card {
   background: #1271b9;
   color: #fff;
+  margin-inline: auto; /* push card to the center */
   max-inline-size: 65rem; /* card has a maximum width of 65rem */
   max-block-size: 400px; /* card has a maximum height of 400px */
+
+  /* you may add styles here... */
 }
 
 .card-content {

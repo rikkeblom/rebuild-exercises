@@ -2,6 +2,11 @@
 
 ## Title: Slanted card
 
+### Rules
+
+- You may not make changes to "index.html"
+- You may only make changes to "css/style.css"
+
 ### Exercise description
 
 In this exercise your job is to create a slanted edge slicing through a card component containing some text content and an image. The angle of the slanted edge must be consistent at all screen sizes and its midpoint must intersect with that of the diagonals of the card (see video reference).
