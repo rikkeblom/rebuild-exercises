@@ -7,3 +7,4 @@ Clone and download the repo. Choose an exercise by changing to the corresponding
 ## Exercises (branches)
 
 - "slanted-card"
+- "border-content"
