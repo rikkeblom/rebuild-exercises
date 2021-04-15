@@ -17,4 +17,8 @@ Reference:
 
 ![Border content](border-content.webp "border content")
 
+Caption: Desktop
+
 ![Border content mobile](border-content-mobile.webp "border content mobile")
+
+Caption: Mobile
