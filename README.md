@@ -16,3 +16,5 @@ Reference:
 ![Border content](border-content.gif "border content reference")
 
 ![Border content](border-content.webp "border content")
+
+![Border content mobile](border-content-mobile.webp "border content mobile")
