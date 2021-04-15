@@ -15,14 +15,16 @@ References:
 
 ![Border content](border-content.gif "border content reference")
 
+Video
+
 ---
 
 ![Border content](border-content.webp "border content")
 
-Caption: Desktop
+Desktop
 
 ---
 
 ![Border content mobile](border-content-mobile.webp "border content mobile")
 
-Caption: Mobile
+Mobile
