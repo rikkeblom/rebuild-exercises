@@ -13,11 +13,17 @@ In this exercise your job is to create a border around content, which is divided
 
 Reference:
 
+---
+
 ![Border content](border-content.gif "border content reference")
+
+---
 
 ![Border content](border-content.webp "border content")
 
 Caption: Desktop
+
+---
 
 ![Border content mobile](border-content-mobile.webp "border content mobile")
 
