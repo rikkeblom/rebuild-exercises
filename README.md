@@ -11,9 +11,7 @@
 
 In this exercise your job is to create a border around content, which is divided into two columns. The content itself (i.e., comprising of a `header` and a `article` element) has a maximum width of `60rem` while the background color of each column stretches to the edges of the viewport. On smaller screen sizes (below a width of `36rem`) the content must stack whilst respecting the background color of each section (see video reference).
 
-Reference:
-
----
+References:
 
 ![Border content](border-content.gif "border content reference")
 
