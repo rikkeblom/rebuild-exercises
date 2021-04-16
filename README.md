@@ -1,30 +1,44 @@
 # Rebuild exercises
 
-## Title: Border content
+## Title: Impossible Layout
 
 ### Rules
 
-- You may _NOT_ make changes to "index.html"
-- You may only make changes to "css/style.css"
+- You may make changes to "index.html"
+- You may make changes to "css/style.css"
 
 ### Exercise description
 
-In this exercise your job is to create a border around content, which is divided into two columns. The content itself (i.e., comprising of a `header` and a `article` element) has a maximum width of `60rem` while the background color of each column stretches to the edges of the viewport. On smaller screen sizes (below a width of `36rem`) the content must stack whilst respecting the background color of each section (see video reference).
+In this exercise your job is to create a responsive layout, which goes from a two-column layout to a single-column layout controlled by a single media query rule. The `article`s with the classes of `.a` and `.b` are in the left column, and `.c`, `.d`, and `.e` are in the right column. The order of the `article` elements changes once the viewport is smaller than `40rem` (see video reference).
+
+Larger than `40rem` =>
+
+"a c"
+"b d"
+". e"
+
+Smaller than `40rem` =>
+
+"c"
+"a"
+"b"
+"d"
+"e"
 
 References:
 
-![Border content](border-content.gif "border content reference")
+![Impossible layout](impossible-layout.gif "Impossible layout")
 
 Video
 
 ---
 
-![Border content](border-content.webp "border content")
+![Impossible layout desktop](border-content.webp "Impossible layout desktop")
 
 Desktop
 
 ---
 
-![Border content mobile](border-content-mobile.webp "border content mobile")
+![Impossible layout mobile](border-content-mobile.webp "Impossible layout mobile")
 
 Mobile
