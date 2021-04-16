@@ -19,12 +19,12 @@ Video
 
 ---
 
-![Impossible layout desktop](border-content.webp "Impossible layout desktop")
+![Impossible layout desktop](impossible-layout-desktop.webp "Impossible layout desktop")
 
 Desktop
 
 ---
 
-![Impossible layout mobile](border-content-mobile.webp "Impossible layout mobile")
+![Impossible layout mobile](impossible-layout-mobile.webp "Impossible layout mobile")
 
 Mobile
