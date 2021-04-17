@@ -8,3 +8,4 @@ Clone and download the repo. Choose an exercise by changing to the corresponding
 
 - "slanted-card"
 - "border-content"
+- "impossible-layout"
