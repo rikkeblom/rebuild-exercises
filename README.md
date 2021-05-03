@@ -12,10 +12,10 @@
 In this exercise your job is to create a responsive layout, which goes from a two-column layout to a single-column layout controlled by a single media query rule. The `article`s with the classes of `.a` and `.b` are in the left column, and `.c`, `.d`, and `.e` are in the right column on larger screen sizes. The order of the `article` elements changes once the viewport is smaller than `40rem` (see video reference).
 
 | `> 40rem` |     |
-| --------- | :-: |
-| a         |  c  |
-| b         |  d  |
-|           |  e  |
+| --------- | --- |
+| a         | c   |
+| b         | d   |
+|           | e   |
 
 | `< 40rem` |
 | --------- |
@@ -24,6 +24,28 @@ In this exercise your job is to create a responsive layout, which goes from a tw
 | d         |
 | b         |
 | e         |
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">`> 40rem`</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>a</td>
+            <td>c</td>
+        </tr>
+        <tr>
+            <td>b</td>
+            <td>d</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>e</td>
+        </tr>
+    </tbody>
+</table>
 
 **NB:** Note that each `article` should be allowed to have a flexible height which is dependent on its content.
 
