@@ -1,16 +1,34 @@
 /* EXERCISE DEFAULT STYLES */
-:root {
-  --lightblue: #e5ebf9;
-  --darkblue: #2b1b78;
-  --border-color: #564fbf;
+
+* {
+  box-sizing: border-box;
 }
 
 body {
   margin: 0;
   font-family: "Inter", sans-serif;
 }
+
+main {
+  padding: 2em;
+  margin-inline: auto;
+  max-inline-size: 1000px;
+}
+
+article {
+  padding: 1rem;
+  background: var(--bg, #c65414);
+}
+
+:is(.c, .d, .e) {
+  --bg: #eda37a;
+}
+
 /* EXERCISE DEFAULT STYLES END */
 
 /* ————————————————————————————————————————————— */
 
 /* YOUR STYLES */
+
+@media (min-width: 40rem) {
+}
