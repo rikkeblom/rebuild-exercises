@@ -14,7 +14,7 @@ In this exercise your job is to create a responsive layout, which goes from a tw
 <table>
     <thead>
         <tr>
-            <th colspan="2"><code>> 40rem</code> (desktop)</th>
+            <th colspan="2"><code>> 40rem</code> <small>(desktop)</small></th>
         </tr>
     </thead>
     <tbody>
@@ -36,7 +36,7 @@ In this exercise your job is to create a responsive layout, which goes from a tw
 <table>
     <thead>
         <tr>
-            <th><code>< 40rem</code> (mobile)</th>
+            <th><code>< 40rem</code> <small>(mobile)</small></th>
         </tr>
     </thead>
     <tbody>
