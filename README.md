@@ -66,7 +66,7 @@ References:
 
 Video
 
-<video controls src="nest-is-coming.mp4"></video>
+http://daviatkea.dk/kea/tema-5/video/hiking.mp4
 
 ---
 
