@@ -66,8 +66,6 @@ References:
 
 Video
 
-![Impossible layout](http://daviatkea.dk/kea/tema-5/video/hiking.mp4 "Impossible layout")
-
 ---
 
 ![Impossible layout desktop](impossible-layout-desktop.webp "Impossible layout desktop")
