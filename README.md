@@ -66,7 +66,7 @@ References:
 
 Video
 
-http://daviatkea.dk/kea/tema-5/video/hiking.mp4
+![Impossible layout](http://daviatkea.dk/kea/tema-5/video/hiking.mp4 "Impossible layout")
 
 ---
 
