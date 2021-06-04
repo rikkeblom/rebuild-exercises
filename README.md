@@ -66,7 +66,7 @@ References:
 
 Video
 
-![video](nest-is-coming.mp4 "test")
+<video controls src="nest-is-coming.mp4"></video>
 
 ---
 
