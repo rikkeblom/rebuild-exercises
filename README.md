@@ -62,18 +62,18 @@ In this exercise your job is to create a responsive layout, which goes from a tw
 
 References:
 
-![Impossible layout](impossible-layout.gif "Impossible layout")
+![Impossible layout](readme-assets/impossible-layout.gif "Impossible layout")
 
 Video
 
 ---
 
-![Impossible layout desktop](impossible-layout-desktop.webp "Impossible layout desktop")
+![Impossible layout desktop](readme-assets/impossible-layout-desktop.webp "Impossible layout desktop")
 
 Desktop
 
 ---
 
-![Impossible layout mobile](impossible-layout-mobile.webp "Impossible layout mobile")
+![Impossible layout mobile](readme-assets/impossible-layout-mobile.webp "Impossible layout mobile")
 
 Mobile
