@@ -13,7 +13,7 @@ In this exercise your job is to create a slanted edge slicing through a card com
 
 Reference:
 
-![Slanted card](slanted-card.gif "slanted card reference")
+![Slanted card](readme-assets/slanted-card.gif "slanted card reference")
 
 ### In two parts
 
@@ -23,7 +23,7 @@ You may want to split up the exercise into two parts.
 
 Create a two-column grid of equal width; one containing the text content and the other containing an image. The image must maintain its aspect ratio while filling the element’s entire content box; it will be clipped to fit. The card component must never be taller than 400px.
 
-![Slanted card part 1](slanted-1.jpg "slanted card part 1")
+![Slanted card part 1](readme-assets/slanted-1.jpg "slanted card part 1")
 
 ---
 
@@ -33,4 +33,4 @@ Continue to work on introducing a slanted edge slicing through the card. The ang
 
 _Resources:_ [clip-path maker](https://bennettfeely.com/clippy/)
 
-![Slanted card part 2](slanted-2.jpg "slanted card part 2")
+![Slanted card part 2](readme-assets/slanted-2.jpg "slanted card part 2")
