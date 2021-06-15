@@ -13,18 +13,18 @@ In this exercise your job is to create a border around content, which is divided
 
 References:
 
-![Border content](border-content.gif "border content reference")
+![Border content](readme-assets/border-content.gif "border content reference")
 
 Video
 
 ---
 
-![Border content](border-content.webp "border content")
+![Border content](readme-assets/border-content.webp "border content")
 
 Desktop
 
 ---
 
-![Border content mobile](border-content-mobile.webp "border content mobile")
+![Border content mobile](readme-assets/border-content-mobile.webp "border content mobile")
 
 Mobile
