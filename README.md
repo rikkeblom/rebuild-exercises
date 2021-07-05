@@ -9,7 +9,9 @@
 
 ### Exercise description
 
-In this exercise your job is to create a card component, in which the the image "breaks out" of the container. There are two layouts — one for small screens, and another for larger screens. On small screens the image sits on top, and on larger screens the image sits next to the text content. The maximum width of the card (including the image) is `1000px` (see video reference).
+In this exercise your job is to create a card component, in which the the image "breaks out" of the container. There are two layouts — one for small screens, and another for larger screens. On small screens the image sits on top, and on larger screens the image sits next to the text content, whilst the bottom of text content must align with the bottom edge of the image.
+
+The maximum width of the card (including the image) is `1000px` (see video reference).
 
 References:
 
