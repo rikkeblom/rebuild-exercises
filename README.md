@@ -1,6 +1,6 @@
 # Rebuild exercises
 
-## Title: Border content
+## Title: Card breakout
 
 ### Rules
 
@@ -9,22 +9,22 @@
 
 ### Exercise description
 
-In this exercise your job is to create a border around content, which is divided into two columns. The content itself (i.e., comprising of a `header` and a `article` element) has a maximum width of `60rem` while the background color of each column stretches to the edges of the viewport. On smaller screen sizes (below a width of `36rem`) the content must stack whilst respecting the background color of each section (see video reference).
+In this exercise your job is to create a card component, in which the the image "breaks out" of the container. There are two layouts — one for small screens, and another for larger screens. On small screens the image sits on top, and on larger screens the image sits next to the text content. The maximum width of the card (including the image) is `1000px` (see video reference).
 
 References:
 
-![Border content](readme-assets/border-content.gif "border content reference")
+![Card breakout](readme-assets/card-breakout.gif "Card breakout reference")
 
 Video
 
 ---
 
-![Border content](readme-assets/border-content.webp "border content")
+![Card breakout Desktop](readme-assets/border-content.webp "Card breakout reference — Desktop")
 
 Desktop
 
 ---
 
-![Border content mobile](readme-assets/border-content-mobile.webp "border content mobile")
+![Card breakout Mobile](readme-assets/border-content-mobile.webp "Card breakout reference — Mobile")
 
 Mobile

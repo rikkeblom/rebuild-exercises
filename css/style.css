@@ -1,8 +1,6 @@
 /* EXERCISE DEFAULT STYLES */
 :root {
-  --lightblue: #e5ebf9;
-  --darkblue: #2b1b78;
-  --border-color: #564fbf;
+  --card-background-color: #e1e8e8;
 }
 
 body {
