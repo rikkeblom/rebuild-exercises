@@ -19,12 +19,12 @@ Video
 
 ---
 
-![Card breakout Desktop](readme-assets/border-content.webp "Card breakout reference — Desktop")
+![Card breakout Desktop](readme-assets/card-breakout.webp "Card breakout reference — Desktop")
 
 Desktop
 
 ---
 
-![Card breakout Mobile](readme-assets/border-content-mobile.webp "Card breakout reference — Mobile")
+![Card breakout Mobile](readme-assets/card-breakout-mobile.webp "Card breakout reference — Mobile")
 
 Mobile
