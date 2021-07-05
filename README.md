@@ -21,10 +21,14 @@ Video
 
 ![Card breakout Desktop](readme-assets/card-breakout.webp "Card breakout reference — Desktop")
 
+![Card breakout Desktop measurement](readme-assets/card-breakout-measure.webp "Card breakout reference — Desktop measurement")
+
 Desktop
 
 ---
 
 ![Card breakout Mobile](readme-assets/card-breakout-mobile.webp "Card breakout reference — Mobile")
+
+![Card breakout Mobile measurement](readme-assets/card-breakout-mobile-measure.webp "Card breakout reference — Mobile measurement")
 
 Mobile
