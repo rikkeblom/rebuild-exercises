@@ -15,7 +15,7 @@ The maximum width of the card (including the image) is `1000px`.
 
 References:
 
-![Card breakout](readme-assets/card-breakout.gif "Card breakout reference")
+![Card breakout](readme-assets/equal-size-boxes.gif "Card breakout reference")
 
 Video
 
