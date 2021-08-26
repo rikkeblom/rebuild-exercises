@@ -1,6 +1,6 @@
 # Rebuild exercises
 
-## Title: Card breakout
+## Title: Equal-sized Boxes
 
 ### Rules
 
