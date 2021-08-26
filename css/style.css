@@ -3,10 +3,6 @@
 ========== */
 
 /* EXERCISE DEFAULT STYLES */
-:root {
-  --card-bg: #e1e8e8; /* var(--card-bg) */
-}
-
 * {
   margin: 0;
   box-sizing: border-box;
@@ -14,22 +10,10 @@
 
 body {
   font-family: "Inter", sans-serif;
-  line-height: 1.5;
-  color: #212529;
+  background: #f1f2f6;
+  text-align: center;
 }
 
-img {
-  max-width: 100%;
-  vertical-align: middle; /* remove unwanted space beneath images */
-}
-
-h2 {
-  font-size: 2rem;
-}
-
-.sub-title {
-  font-size: 1.35em;
-}
 /* EXERCISE DEFAULT STYLES END */
 
 /* ========== YOUR STYLES BELOW ========== */

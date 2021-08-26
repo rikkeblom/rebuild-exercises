@@ -9,9 +9,7 @@
 
 ### Exercise description
 
-In this exercise your job is to create a card component, in which the the image "breaks out" of the container. There are two layouts — one for small screens, and another for larger screens. On small screens the image sits on top, and on larger screens the image sits next to the text content, which must align with the bottom edge of the image. The height of the image must never be smaller that the height of the text content (see video reference).
-
-The maximum width of the card (including the image) is `1000px`.
+In this exercise your job is to create a flexible layout of seven boxes, which are of equal sizes regardless of the width of the content inside each box. The boxes are laid out next to each other over three rows; the top and bottom rows in pairs of two towards the center, and the middle row accomodate three of the seven boxes (see video reference).
 
 References:
 
@@ -21,16 +19,12 @@ Video
 
 ---
 
-![Card breakout Desktop](readme-assets/card-breakout.webp "Card breakout reference — Desktop")
+![Equal-size Boxes Normal](readme-assets/esb-1.webp "Equal-size Boxes Normal")
 
-![Card breakout Desktop measurement](readme-assets/card-breakout-measure.webp "Card breakout reference — Desktop measurement")
-
-Desktop
+Normal
 
 ---
 
-![Card breakout Mobile](readme-assets/card-breakout-mobile.webp "Card breakout reference — Mobile")
+![Equal-size Boxes expanded](readme-assets/esb-2.webp "Equal-size Boxes expanded")
 
-![Card breakout Mobile measurement](readme-assets/card-breakout-mobile-measure.webp "Card breakout reference — Mobile measurement")
-
-Mobile
+Expanded
