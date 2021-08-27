@@ -15,6 +15,8 @@ References:
 
 ![Equal-size Boxes](readme-assets/equal-size-boxes-optimized.gif "Equal-size Boxes")
 
+![Equal-size Boxes](readme-assets/test.webp "Equal-size Boxes")
+
 Video
 
 ---
