@@ -13,20 +13,18 @@ In this exercise your job is to create a flexible layout of seven boxes, which a
 
 References:
 
-![Equal-size Boxes](readme-assets/equal-size-boxes-optimized.gif "Equal-size Boxes")
-
-![Equal-size Boxes](readme-assets/test.webp "Equal-size Boxes")
+![Equal-sized Boxes](readme-assets/equal-sized-boxes-optimized.webp "Equal-sized Boxes")
 
 Video
 
 ---
 
-![Equal-size Boxes Normal](readme-assets/esb-1.webp "Equal-size Boxes Normal")
+![Equal-sized Boxes Normal](readme-assets/esb-1.webp "Equal-sized Boxes Normal")
 
 Normal
 
 ---
 
-![Equal-size Boxes expanded](readme-assets/esb-2.webp "Equal-size Boxes expanded")
+![Equal-sized Boxes expanded](readme-assets/esb-2.webp "Equal-sized Boxes expanded")
 
 Expanded
