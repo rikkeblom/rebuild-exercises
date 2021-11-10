@@ -6,6 +6,7 @@ Clone and download the repo. Choose an exercise by changing to the corresponding
 
 ## Exercises (branches)
 
+- "color-boxes"
 - "equal-sized-boxes"
 - "slanted-card"
 - "border-content"
