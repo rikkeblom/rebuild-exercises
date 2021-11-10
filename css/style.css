@@ -11,7 +11,12 @@
 body {
   font-family: "Inter", sans-serif;
   background: #f1f2f6;
-  text-align: center;
+}
+
+h2 {
+  font-size: 2.4rem;
+  line-height: 1.125;
+  margin-block-end: 1rem;
 }
 
 /* EXERCISE DEFAULT STYLES END */

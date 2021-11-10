@@ -9,22 +9,18 @@
 
 ### Exercise description
 
-In this exercise your job is to create a flexible layout of seven boxes, which are of equal sizes regardless of the width of the content inside each box. The boxes are laid out next to each other over three rows; the top and bottom rows in pairs of two towards the center, and the middle row accomodate three of the seven boxes (see video reference).
+In this exercise your job is to create a simple 3x2 grid layout containing a header element (`h2`, `p`) and five colored boxes in an unordered list, which all have a tilted (`-5deg`) dashed border (see video reference). The colors to be used are referenced on each list item as a custom property. The content width is `800px`.
+
+**You may not make changes to the HTML document**.
 
 References:
 
-![Equal-sized Boxes](readme-assets/equal-sized-boxes.webp "Equal-sized Boxes")
+![Color Boxes](readme-assets/color-boxes.webp "Color Boxes")
 
 Video
 
 ---
 
-![Equal-sized Boxes Normal](readme-assets/esb-1.webp "Equal-sized Boxes Normal")
+![Color Boxes](readme-assets/color-boxes_still.webp "Color Boxes")
 
-Normal
-
----
-
-![Equal-sized Boxes expanded](readme-assets/esb-2.webp "Equal-sized Boxes expanded")
-
-Expanded
+Image
