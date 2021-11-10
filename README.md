@@ -1,6 +1,6 @@
 # Rebuild exercises
 
-## Title: Equal-sized Boxes
+## Title: Color Boxes
 
 ### Rules
 
