@@ -10,7 +10,7 @@
 
 body {
   font-family: "Inter", sans-serif;
-  background: #f1f2f6;
+  background: hsl(228 22% 95%);
 }
 
 h2 {
@@ -22,3 +22,67 @@ h2 {
 /* EXERCISE DEFAULT STYLES END */
 
 /* ========== YOUR STYLES BELOW ========== */
+header {
+  position: absolute;
+  grid-column: 1;
+  grid-row: 1;
+  width: 250px;
+  aspect-ratio: 1/1;
+}
+
+li {
+  width: 250px;
+  height: 250px;
+  color: hsla(var(--hsl));
+  background-color: hsla(var(--hsl));
+  backdrop-filter: opacity(20%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+}
+
+li:before {
+  content: "";
+  position: absolute;
+  width: inherit;
+  height: inherit;
+  border-color: hsla(var(--hsl));
+  border-style: dashed;
+  border-width: 2px;
+  transform: rotate(-5deg);
+}
+
+ul {
+  padding: 0;
+  display: grid;
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+section {
+  width: 800px;
+  margin: 4rem auto;
+}
+
+li:nth-of-type(1) {
+  grid-row: 1;
+  grid-column: 2;
+}
+li:nth-of-type(2) {
+  grid-row: 1;
+  grid-column: 3;
+}
+li:nth-of-type(3) {
+  grid-row: 2;
+  grid-column: 1;
+}
+li:nth-of-type(4) {
+  grid-row: 2;
+  grid-column: 2;
+}
+li:nth-of-type(5) {
+  grid-row: 2;
+  grid-column: 3;
+}
